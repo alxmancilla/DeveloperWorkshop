@@ -1,6 +1,4 @@
 # DeveloperWorkshop
-Repository with code samples on Java and Node.js 
-
 
 This workshop focuses exclusively on some of the new features of MongoDB 3.6 and requires pre-existing knowledge of MongoDB, particularly the Mongo Shell. 
 
@@ -30,11 +28,11 @@ With Change Streams, you now get a fully supported, reliable, durable and secure
 
 But enough with marketing spins, let’s get started with technical content. We’ll embark into the following journey to discover Change Streams:
 
-* To introduce the feature, start with a simple [Mongo Shell lab](https://github.com/rlondner/mongodb-3.6-workshop/tree/master/labs/change-streams/shell).
+* To introduce the feature, start with a simple [Mongo Shell lab](https://github.com/alxmancilla/DeveloperWorkshop/tree/master/nodejs/change-streams/shell).
 
-* Move on with a more complex and realistic [Node.js lab](https://github.com/rlondner/mongodb-3.6-workshop/tree/master/labs/change-streams/node).
+* Move on with a more complex and realistic [Node.js lab](https://github.com/alxmancilla/DeveloperWorkshop/tree/master/labs/change-streams/node).
 
-* Find out how to integrate change streams with Kafka in the [Change Streams Kafka producer lab](https://github.com/rlondner/mongodb-3.6-workshop/tree/master/labs/kafka).
+* Find out how to integrate change streams with Kafka in the [Change Streams Kafka producer lab](https://github.com/alxmancilla/DeveloperWorkshop/tree/master/labs/kafka).
 
 ### JSON Schema Validation Labs
 
@@ -48,4 +46,4 @@ To know more about the technical features of MongoDB’s JSON Schema Validation 
 
 ### Granular Array Updates Lab
 
-* The granular array updates lab is available [here](https://github.com/rlondner/mongodb-3.6-workshop/tree/master/labs/array-updates).
+* The granular array updates lab is available [here](https://github.com/alxmancilla/DeveloperWorkshop/tree/master/labs/array-updates).
